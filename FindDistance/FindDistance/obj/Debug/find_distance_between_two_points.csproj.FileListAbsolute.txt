@@ -1,0 +1,7 @@
+D:\С@#\Lab1\find_distance_between_two_points\ConsoleApp1\bin\Debug\find_distance_between_two_points.exe.config
+D:\С@#\Lab1\find_distance_between_two_points\ConsoleApp1\bin\Debug\find_distance_between_two_points.exe
+D:\С@#\Lab1\find_distance_between_two_points\ConsoleApp1\bin\Debug\find_distance_between_two_points.pdb
+D:\С@#\Lab1\find_distance_between_two_points\ConsoleApp1\obj\Debug\find_distance_between_two_points.csprojResolveAssemblyReference.cache
+D:\С@#\Lab1\find_distance_between_two_points\ConsoleApp1\obj\Debug\find_distance_between_two_points.csproj.CoreCompileInputs.cache
+D:\С@#\Lab1\find_distance_between_two_points\ConsoleApp1\obj\Debug\find_distance_between_two_points.exe
+D:\С@#\Lab1\find_distance_between_two_points\ConsoleApp1\obj\Debug\find_distance_between_two_points.pdb
